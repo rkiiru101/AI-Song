@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.heading{
+    width:100% ;
+    margin: 0;
+    font-size: 18px;
+
+}
+
+.note{
+    font-size: 12px;
+    color: black;
+
+}
+canvas{
+    background-color: rgb(0, 0, 0);
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px,5px,5px,grey;
+    margin-bottom: 5px;
+}
+
+h3{
+    background-color: pink;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-top: 2px;
+}
